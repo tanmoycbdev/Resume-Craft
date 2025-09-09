@@ -1,0 +1,6 @@
+Allow all web crawlers to access all content on the site.
+User-agent: *
+Allow: /
+
+You can add the location of your sitemap here once you create one.
+Sitemap: https://www.google.com/search?q=https://www.yourwebsite.com/sitemap.xml
